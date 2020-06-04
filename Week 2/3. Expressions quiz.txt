@@ -1,0 +1,34 @@
+1) Assume that int a = 3, b = 4, c = -2;
+
+What is the value of a + b?
+
+Ans: 7
+
+2) Assume that int a = 3, b = 4, c = -2;
+
+What is the value of -a + b?
+Ans : 1
+
+3) Assume that int a = 3, b = 4, c = -2;
+
+What is the value of ++a + c?
+
+Ans : 2
+
+4) Assume that int a = 3, b = 4, c = -2;
+
+What is the value of a / b?
+
+Ans: 0
+
+5) Assume that int a = 3, b = 4, c = -2;
+
+What is the value of b / a?
+
+Ans: 1
+
+6) Assume that int a = 3, b = 4, c = -2;
+
+What is the value of ++a + b++?
+
+Ans : 8

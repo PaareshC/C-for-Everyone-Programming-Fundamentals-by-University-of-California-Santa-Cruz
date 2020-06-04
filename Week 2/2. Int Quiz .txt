@@ -1,0 +1,4 @@
+1) What does this program print, because of int kilometers? 
+Ans : A marathon is 42 kilometer
+2) Why did we change the format from lf to d? 
+Ans : lf is a double and int answer would print incorrectly.
