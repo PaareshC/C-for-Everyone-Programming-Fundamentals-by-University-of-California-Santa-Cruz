@@ -1,0 +1,22 @@
+switch(i){
+
+      case 1: printf(“case 1 \n”); break;
+
+      case 2: printf(“case 2 \n”);
+
+      case 3: printf(“case 3 \n”);break;
+
+      default: printf(“default case \n”);
+
+     };
+
+Use the code above for all of the questions.
+
+Q 1) If i starts off as 1 then printf will print
+Ans) case 1
+
+Q 2) If i starts out as  15 the printf will print 
+Ans) default case
+
+Q 3) If i starts out as  2 the printf will print
+Ans) case 2 case 3
