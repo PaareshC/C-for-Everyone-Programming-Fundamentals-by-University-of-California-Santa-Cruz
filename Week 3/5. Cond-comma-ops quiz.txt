@@ -1,0 +1,31 @@
+
+Q 1) Assume   i = 1; j = 2;
+
+n = (i < j);
+
+Ans : n is 1
+
+Q 2) Assume   i = 1; j = 2;
+
+n = (i == j)? 4:(i < j)?3:5;
+
+Ans: n is 3
+
+Q 3) Assume   i = 1; j = 2;
+
+n = (i, j); 
+
+Ans: n is 2
+
+Q 4) Assume   i = 1; j = 2;
+
+n = i, j+1; 
+
+Ans: n is 1
+
+Q 5) Assume   i = 1; j = 2;
+
+n = (i < j)? 4: 6; 
+
+Ans: n is 4
+
